@@ -1,0 +1,16 @@
+{
+  "name": "mochatest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "password.js",
+  "scripts": {
+    "test": "mocha password.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.2.2"
+  }
+}
